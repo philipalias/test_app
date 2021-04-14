@@ -14,4 +14,11 @@ API use : https://disease.sh/v2/countries
 
 Screenshots
 
+![Alt text](https://github.com/philipalias/test_app/blob/main/2.jpeg?raw=true "")
+![Alt text](https://github.com/philipalias/test_app/blob/main/3.jpeg?raw=true "")
+![Alt text](https://github.com/philipalias/test_app/blob/main/4.jpeg?raw=true "")
+![Alt text](https://github.com/philipalias/test_app/blob/main/1.jpeg?raw=true "")
+
+
+
 
